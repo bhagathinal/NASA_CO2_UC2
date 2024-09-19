@@ -4,12 +4,10 @@ Welcome to the NASA Climate Story project! This initiative aims to provide insig
 
 Objectives
 Educate: Raise awareness about CO2 emissions and their effects on global warming.
-Data Visualization: Present data in an accessible format to help users understand trends and patterns.
 Engage: Foster community involvement through discussions and educational resources.
 
 Contents
 Data Sources: Information on where the CO2 emissions data is sourced from.
-Visualizations: Interactive charts and graphs showcasing CO2 trends over time.
 Educational Resources: Links to articles, videos, and research papers on climate science.
 
 Getting Started
@@ -25,11 +23,6 @@ python app.py
 
 Data Sources
 NASA: Data on atmospheric CO2 levels and climate models.
-NOAA: Information on historical climate data and trends.
-IPCC Reports: Comprehensive assessments on climate change.
-
-Visualizations
-Explore interactive charts that display:
 
 Global CO2 levels over the past century
 Emission sources by sector (transportation, industry, etc.)
